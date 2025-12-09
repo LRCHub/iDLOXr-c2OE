@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BF1",
+  "base_artist": "Tee Shyne",
+  "createdAt": "2025-12-09T14:07:29.667842Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BF1",
+      "artist": "Tee Shyne",
+      "has_synced": false,
+      "path": "select/pl_01_BF1_Tee_Shyne.txt"
+    }
+  ]
+}
