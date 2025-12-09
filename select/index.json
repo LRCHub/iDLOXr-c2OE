@@ -1,16 +1,152 @@
 {
   "version": 1,
-  "base_track": "BF1",
-  "base_artist": "Tee Shyne",
-  "createdAt": "2025-12-09T14:07:29.667842Z",
+  "base_track": "BIOHAZARD",
+  "base_artist": "Pxrge Trxxxper",
+  "createdAt": "2025-12-09T14:08:02.564725Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Momma",
+      "has_synced": false,
+      "path": "select/01_Biohazard_Momma.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Biohazard Butterfly",
+      "artist": "Princess Nokia",
+      "has_synced": false,
+      "path": "select/02_Biohazard_Butterfly_Princess_Nokia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Massacre",
+      "has_synced": true,
+      "path": "select/03_Biohazard_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Crusher-P",
+      "has_synced": false,
+      "path": "select/04_Biohazard_Crusher-P.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Crusher-P ft. Aiko Kikyuune",
+      "has_synced": true,
+      "path": "select/05_Biohazard_Crusher-P_ft._Aiko_Kikyuune.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bloodsuckers (Biohazard remix)",
+      "artist": "Die Krupps feat. Die",
+      "has_synced": false,
+      "path": "select/06_Bloodsuckers_(Biohazard_remix)_Die_Krupps_feat._Die.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bloodsuckers (Biohazard remix)",
+      "artist": "Die Krupps",
+      "has_synced": false,
+      "path": "select/07_Bloodsuckers_(Biohazard_remix)_Die_Krupps.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Paluch",
+      "has_synced": true,
+      "path": "select/08_Biohazard_Paluch.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Biohazard- After Forever",
+      "artist": "Nativity In Black",
+      "has_synced": false,
+      "path": "select/09_Biohazard-_After_Forever_Nativity_In_Black.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Triad (Biohazard Remix)",
+      "artist": "Pitchshifter",
+      "has_synced": false,
+      "path": "select/10_Triad_(Biohazard_Remix)_Pitchshifter.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bloodsuckers (Biohazard Remix)",
+      "artist": "Die Krupps",
+      "has_synced": false,
+      "path": "select/11_Bloodsuckers_(Biohazard_Remix)_Die_Krupps.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BIOHAZARD",
+      "artist": "CMH",
+      "has_synced": true,
+      "path": "select/12_BIOHAZARD_CMH.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Downlink",
+      "has_synced": true,
+      "path": "select/13_Biohazard_Downlink.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kostel - Biohazard - Mcd",
+      "artist": "Vypsaná fiXa",
+      "has_synced": true,
+      "path": "select/14_Kostel_-_Biohazard_-_Mcd_Vypsaná_fiXa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Massacre",
+      "has_synced": true,
+      "path": "select/15_Biohazard_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Calypso",
+      "has_synced": false,
+      "path": "select/16_Biohazard_Calypso.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Biohazard",
+      "artist": "Momma",
+      "has_synced": true,
+      "path": "select/17_Biohazard_Momma.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "BF1",
-      "artist": "Tee Shyne",
+      "title": "BIOHAZARD",
+      "artist": "Pxrge Trxxxper",
       "has_synced": false,
-      "path": "select/pl_01_BF1_Tee_Shyne.txt"
+      "path": "select/pl_01_BIOHAZARD_Pxrge_Trxxxper.txt"
     }
   ]
 }
